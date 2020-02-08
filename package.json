@@ -4,6 +4,10 @@
 	"description": "add the code",
 	"version": "0.0.1",
 	"publisher": "haochyk",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SuperLuckyYU/yunion_web_plugin.git"
+	},
 	"engines": {
 		"vscode": "^1.41.0"
 	},
