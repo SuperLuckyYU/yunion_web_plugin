@@ -3,6 +3,7 @@
 	"displayName": "yunion_web_plugin",
 	"description": "add the code",
 	"version": "0.0.1",
+	"publisher": "haochyk",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
