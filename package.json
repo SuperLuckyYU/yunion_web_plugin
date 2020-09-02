@@ -1,9 +1,9 @@
 {
 	"name": "yunion",
-	"displayName": "yunion_web_plugin",
-	"description": "add the code",
+	"displayName": "yunion-diy",
+	"description": "云联壹云开发者定制vscode插件",
 	"version": "0.0.1",
-	"publisher": "haochyk",
+	"publisher": "Yunion",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/SuperLuckyYU/yunion_web_plugin.git"
