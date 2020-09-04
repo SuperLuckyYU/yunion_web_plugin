@@ -349,5 +349,26 @@
       "},"
     ],
     "description": "Code snippet for 'formatter'"
+  },
+  "getFieldDecorator": {
+    "prefix": "getFie",
+    "body": [
+      "this.form.fc.getFieldDecorator('', { initialValue: '' })"
+    ],
+    "description": "Code snippet for 'AntdV Form getFieldDecorator'"
+  },
+  "initialValue": {
+    "prefix": "init",
+    "body": [
+      "initialValue"
+    ],
+    "description": "Code snippet for 'AntdV Form initialValue'"
+  },
+  "validate": {
+    "prefix": "validate",
+    "body": [
+      "await this.form.fc.validateFields()"
+    ],
+    "description": "Code snippet for 'AntdV Form validate'"
   }
 }

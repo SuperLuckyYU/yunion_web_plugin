@@ -7,6 +7,8 @@
 * `sidepageIndex`
 * `sidepageDetail`
 * `dialogCreate`
-* `sidepageIndex`
+* `getFieldDecorator`
+* `initialValue`
+* `validate`
 
 **Enjoy!**
