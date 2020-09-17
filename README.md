@@ -10,5 +10,7 @@
 * `getFieldDecorator`
 * `initialValue`
 * `validate`
+* `columns`
+* `singleActions`
 
 **Enjoy!**

@@ -2,7 +2,7 @@
 	"name": "yunion",
 	"displayName": "yunion-diy",
 	"description": "云联壹云开发者定制vscode插件",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "Yunion",
 	"repository": {
 		"type": "git",
